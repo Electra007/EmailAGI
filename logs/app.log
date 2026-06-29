@@ -1,0 +1,22 @@
+2026-06-29 20:47:24,798 | INFO | 
+Customer ID : 100007
+Subject     : Card Charged Twice
+Prediction  : Credit Card
+Confidence  : 1.00
+Novelty     : False
+Similarity  : 0.95
+Decision    : Pending KYC
+Assigned    : Compliance Team
+Ticket ID   : 62463bc4-65de-44d3-a955-199a5402f746
+
+2026-06-29 20:47:50,219 | INFO | 
+Customer ID : 100007
+Subject     : Card Charged Twice
+Prediction  : Credit Card
+Confidence  : 1.00
+Novelty     : False
+Similarity  : 0.95
+Decision    : Pending KYC
+Assigned    : Compliance Team
+Ticket ID   : cfe1b4c4-0a8d-42cc-bf88-faaaa4f5dd41
+
